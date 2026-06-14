@@ -1,0 +1,11 @@
+# AI Helpers
+.claude/
+
+node_modules/
+site/.vitepress/cache/
+site/.vitepress/dist/
+site/.vitepress/.build-tmp/
+*.log
+.DS_Store
+.vitepress/cache/
+.vitepress/dist/
