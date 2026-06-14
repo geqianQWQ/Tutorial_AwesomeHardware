@@ -7,7 +7,7 @@ import { sidebar } from './config/sidebar'
 
 export default defineConfig({
   lang: 'zh-CN',
-  // 部署到 GitHub Pages 项目页 Charliechen114514.github.io/Tutorial_AwesomeHardware/
+  // 部署到 GitHub Pages 项目页 awesome-embedded-learning-studio.github.io/Tutorial_AwesomeHardware/
   base: '/Tutorial_AwesomeHardware/',
   // 源文件在根 tutorials/（参考 Tutorial_AwesomeQt 的 srcDir:'../tutorial' 模式：
   // 内容目录在根，site/ 只放 .vitepress 配置，根无散落 md）

@@ -2,7 +2,7 @@ name: Deploy VitePress
 
 # 推送到 main 即自动构建并部署到 GitHub Pages。
 # 首次使用前：仓库 Settings → Pages → Source 选「GitHub Actions」。
-# 站点地址：https://charliechen114514.github.io/Tutorial_AwesomeHardware/
+# 站点地址：https://awesome-embedded-learning-studio.github.io/Tutorial_AwesomeHardware/
 # （对应 config.ts 的 base: '/Tutorial_AwesomeHardware/'）
 
 on:

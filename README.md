@@ -2,8 +2,8 @@
 
 > 面向嵌入式学习者的硬件学习笔记站——把抽象概念砸进脑子，而不是把公式塞满屏幕。
 
-🌐 **在线站点**：https://charliechen114514.github.io/Tutorial_AwesomeHardware/
-![Deploy](https://github.com/Charliechen114514/Tutorial_AwesomeHardware/actions/workflows/deploy.yml/badge.svg)
+🌐 **在线站点**：https://awesome-embedded-learning-studio.github.io/Tutorial_AwesomeHardware/
+![Deploy](https://github.com/Awesome-Embedded-Learning-Studio/Tutorial_AwesomeHardware/actions/workflows/deploy.yml/badge.svg)
 
 ## 这是什么
 
@@ -21,17 +21,6 @@
 | 🌡️ 传感器 | 🚧 | 规划中 |
 | 🔁 接口协议 | 🚧 | 规划中 |
 | 🛠️ 板级调试 | 🚧 | 规划中 |
-
-## 版权立场（重要）
-
-本站所有内容为**结合个人理解整理的学习笔记**：
-
-- 部分章节的**理解线索**来自其他同学阅读教材（如《Fundamentals of Power Electronics》）的读书笔记，但本站**绝不复制、翻译或逐句改写**任何参考资料。
-- 所有举例、比喻、数值案例均为**自创**。
-- **不复刻、不描述**参考资料中的插图原图；可视化用极简自绘示意或纯文字。
-- 每篇笔记文末附「参考说明」，仅作灵感出处，不暗示授权复制。
-
-笔记内容版权归作者所有，仅供学习交流；站点构建脚本与配置（`site/`、`scripts/`）随仓库开源。
 
 ## 技术栈
 
@@ -92,4 +81,4 @@ bash scripts/gen-sidebar.sh
 
 ## 致谢
 
-感谢提供读书笔记线索的同学。本项目仅在理解线索基础上重新整理，不涉及对原书的复制或翻译。
+感谢提供读书笔记线索的同学。
